@@ -81,7 +81,7 @@ const Checkout = () => {
 
         {/* Left side - user details form */}
         <div className="checkout-form">
-          <h2>Delivery Details</h2>
+          <h2>&#128230; Delivery Details</h2>
           <input type="text" name="name" placeholder="Full Name"
             value={formData.name} onChange={handleInputChange} className="form-input" />
           <input type="email" name="email" placeholder="Email Address"
