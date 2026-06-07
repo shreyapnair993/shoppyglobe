@@ -38,7 +38,7 @@ const ProductItem = ({ product }) => {
 
         {/* Add to Cart button */}
         <button className="btn btn-primary" onClick={handleAddToCart}>
-          Add to Cart
+          &#128722; Add to Cart
         </button>
       </div>
 
