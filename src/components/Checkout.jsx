@@ -98,7 +98,7 @@ const Checkout = () => {
 
         {/* Right side - order summary */}
         <div className="checkout-summary">
-          <h2>Order Summary</h2>
+          <h2>&#128203; Order Summary</h2>
 
           {/* List of items in cart - each needs unique key */}
           {cartItems.map(item => (
