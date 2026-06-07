@@ -45,7 +45,7 @@ const ProductList = () => {
       <div className="search-container">
         <input
           type="text"
-          placeholder="Search products..."
+          placeholder="Search products by name..."
           value={searchQuery}
           onChange={handleSearchChange}
           className="search-input"
