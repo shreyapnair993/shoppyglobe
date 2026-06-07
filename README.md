@@ -1,7 +1,7 @@
 # ShoppyGlobe E-commerce Application
 
 ## GitHub Repository
-https://github.com/shreyapnair993/shoppyglobe
+https://github.com/shreyapnair993/shoppyglobe_v1
 
 ## Tech Stack
 - React 18 (with Vite)
@@ -26,3 +26,6 @@ https://github.com/shreyapnair993/shoppyglobe
 1. Install dependencies: npm install
 2. Start dev server: npm run dev
 3. Open browser at http://localhost:5173
+
+## Project Status
+Completed and submitted as part of Internshala React Training Assignment.
