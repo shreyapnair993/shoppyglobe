@@ -12,11 +12,11 @@ const Header = () => {
       <div className="header-container">
 
         {/* Logo - clicking takes you home */}
-        <Link to="/" className="logo">&#x1F6D2 ShoppyGlobe</Link>
+        <Link to="/" className="logo">&#x1F6D2; ShoppyGlobe</Link>
 
         {/* Navigation links */}
         <nav className="nav-links">
-          <Link to="/" className="nav-link">&#127968 Home</Link>
+          <Link to="/" className="nav-link">&#127968; Home</Link>
 
           <Link to="/cart" className="nav-link cart-link">
             🛒 Cart
