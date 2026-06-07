@@ -16,7 +16,7 @@ const Header = () => {
 
         {/* Navigation links */}
         <nav className="nav-links">
-          <Link to="/" className="nav-link">Home</Link>
+          <Link to="/" className="nav-link">&#127968 Home</Link>
 
           <Link to="/cart" className="nav-link cart-link">
             🛒 Cart
