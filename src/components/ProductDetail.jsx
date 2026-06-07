@@ -89,7 +89,7 @@ const ProductDetail = () => {
           <p className="product-detail-rating">⭐ {product.rating} / 5</p>
           <p className="product-detail-stock">In Stock: {product.stock} units</p>
           <button className="btn btn-primary" onClick={handleAddToCart}>
-            Add to Cart
+            &#128722; Add to Cart
           </button>
         </div>
       </div>
