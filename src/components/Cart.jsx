@@ -14,7 +14,7 @@ const Cart = () => {
     return (
       <div className="cart-page empty-cart">
         <h1>🛒 Your Cart</h1>
-        <p>Your cart is empty.</p>
+        <p>Your cart is empty. Start shopping now!</p>
         <Link to="/" className="btn btn-primary">Continue Shopping</Link>
       </div>
     );
