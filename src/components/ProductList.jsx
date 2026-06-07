@@ -39,7 +39,7 @@ const ProductList = () => {
 
   return (
     <div className="product-list-page">
-      <h1 className="page-title">All Products</h1>
+      <h1 className="page-title">&#128717; All Products</h1>
 
       {/* Search bar - updates Redux state on every keystroke */}
       <div className="search-container">
