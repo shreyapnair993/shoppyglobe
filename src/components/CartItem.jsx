@@ -44,7 +44,7 @@ const CartItem = ({ item }) => {
         </div>
 
         <p className="cart-item-subtotal">
-          Subtotal: ${(item.price * item.quantity).toFixed(2)}
+          Item Total: ${(item.price * item.quantity).toFixed(2)}
         </p>
       </div>
 
