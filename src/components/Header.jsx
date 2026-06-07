@@ -12,7 +12,7 @@ const Header = () => {
       <div className="header-container">
 
         {/* Logo - clicking takes you home */}
-        <Link to="/" className="logo">ShoppyGlobe</Link>
+        <Link to="/" className="logo">&#x1F6D2 ShoppyGlobe</Link>
 
         {/* Navigation links */}
         <nav className="nav-links">
