@@ -13,7 +13,7 @@ const Cart = () => {
   if (cartItems.length === 0) {
     return (
       <div className="cart-page empty-cart">
-        <h1>🛒 Your Cart</h1>
+        <h1>&#x1F6D2; Your Cart</h1>
         <p>Your cart is empty. Start shopping now!</p>
         <Link to="/" className="btn btn-primary">Continue Shopping</Link>
       </div>
