@@ -75,7 +75,7 @@ const Checkout = () => {
 
   return (
     <div className="checkout-page">
-      <h1>Checkout</h1>
+      <h1>&#129534; Checkout</h1>
 
       <div className="checkout-container">
 
