@@ -54,7 +54,7 @@ const Checkout = () => {
       <div className="order-success">
         <div className="success-box">
           <h1>✅ Order Placed!</h1>
-          <p>Thank you for shopping with ShoppyGlobe.</p>
+          <p>Thank you for shopping with ShoppyGlobe! &#127881;</p>
           <p>Redirecting you to the home page...</p>
         </div>
       </div>
