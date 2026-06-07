@@ -22,7 +22,7 @@ const Cart = () => {
 
   return (
     <div className="cart-page">
-      <h1>🛒 Your Cart</h1>
+      <h1>&#128722; My Cart</h1>
 
       {/* List of cart items - each needs unique key */}
       <div className="cart-items-list">
