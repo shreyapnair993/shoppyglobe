@@ -34,7 +34,7 @@ const ProductItem = ({ product }) => {
         </Link>
 
         <p className="product-price">${product.price.toFixed(2)}</p>
-        <p className="product-rating">⭐ {product.rating} / 5</p>
+        <p className="product-rating">&#128230; {product.rating} / 5</p>
 
         {/* Add to Cart button */}
         <button className="btn btn-primary" onClick={handleAddToCart}>
