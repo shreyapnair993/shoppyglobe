@@ -54,7 +54,7 @@ const ProductList = () => {
 
       {/* Show message if no products match search */}
       {filteredProducts.length === 0 ? (
-        <p className="no-products">No products found for "{searchQuery}"</p>
+        <p className="no-products">&#128533; No products found for "{searchQuery}". Try a different search!</p>
       ) : (
         /* Render product grid - key prop is required for each item */
         <div className="product-grid">
