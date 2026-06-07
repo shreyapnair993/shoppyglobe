@@ -68,7 +68,7 @@ const ProductDetail = () => {
 
       {/* Back button */}
       <button className="btn btn-secondary back-btn" onClick={() => navigate(-1)}>
-        ← Back
+        &#8592; Go Back
       </button>
 
       <div className="product-detail-container">
