@@ -114,7 +114,7 @@ const Checkout = () => {
 
           {/* Place Order button */}
           <button className="btn btn-primary place-order-btn" onClick={handlePlaceOrder}>
-            Place Order
+            &#10003; Place Order
           </button>
         </div>
 
