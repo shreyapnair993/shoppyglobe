@@ -14,7 +14,7 @@ const NotFound = () => {
 
         {/* Error details shown on UI */}
         <p className="error-message">
-          Oops! The page you are looking for does not exist.
+          &#128533; Oops! The page you are looking for does not exist
         </p>
         <p className="error-detail">
           The URL you entered may be incorrect or the page may have been moved or deleted.
