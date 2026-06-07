@@ -33,7 +33,7 @@ const Cart = () => {
 
       {/* Order total and checkout button */}
       <div className="cart-summary">
-        <h2>Order Total: ${cartTotal.toFixed(2)}</h2>
+        <h2>&#129534; Order Total: ${cartTotal.toFixed(2)}</h2>
         <Link to="/checkout" className="btn btn-primary checkout-btn">
           Proceed to Checkout
         </Link>
